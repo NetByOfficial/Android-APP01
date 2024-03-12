@@ -10,3 +10,4 @@ Kiírja, hány százalékon van a telefon (Nincs kész)
 Kiírja, hány százalék szükséges a teljes feltöltésig (Nincs kész)
 Kiszámolja, menyi ideig bírja ki az Akkumlátor (Nincs kész)
 Gomb, amire ha rákattintasz ki írja a fejlesztők nevét (Nincs kész)
+visszaszámláló indul a telefon lemerülésig és a teljes feltöltésig

@@ -1,5 +1,12 @@
-Alkalmazás létrehozási dátuma 2024.03.12.
-Hány százalékon van a telefon
-Hány százalék szükséges a teljes feltöltésig
-Kiszámolja menyi ideig bírja ki a százalék
-egy gomb amire ha rákatintasz ki irja a fejlesztők nevét
+v0.1 | NetBy, UHD-GP
+--------------------------------------------
+ Alkalmazás létrehozási dátuma: 2024.03.12.
+--------------------------------------------
+
+
+Ötletek:
+
+Kiírja, hány százalékon van a telefon (Nincs kész)
+Kiírja, hány százalék szükséges a teljes feltöltésig (Nincs kész)
+Kiszámolja, menyi ideig bírja ki az Akkumlátor (Nincs kész)
+Gomb, amire ha rákattintasz ki írja a fejlesztők nevét (Nincs kész)

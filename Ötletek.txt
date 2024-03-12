@@ -1,0 +1,5 @@
+Alkalmazás létrehozási dátuma 2024.03.12.
+Hány százalékon van a telefon
+Hány százalék szükséges a teljes feltöltésig
+Kiszámolja menyi ideig bírja ki a százalék
+egy gomb amire ha rákatintasz ki irja a fejlesztők nevét
